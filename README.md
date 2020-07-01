@@ -1,16 +1,19 @@
 # meals_app
 
 A new Flutter project.
+It is a basic flutter app to select your favorite meals and apply certain filters to choose which meals you want to see on the screen.
 
-## Getting Started
+# Models
+Models show the class structure of the respective model.
 
-This project is a starting point for a Flutter application.
+# Screen
+The screen show which screen pops up on the stack managed by flutter and shows the layout of each specific screen.
+Categories screen show the main categories whereas categorymeals screen shows the meals in a given category.
+Meal details show the specific details of a meal.
 
-A few resources to get you started if this is your first Flutter project:
+# Widgets
+Widgets show the specific design of the resoecctive widget
+Category widget shows how a category is designed whereas meal widget shows the layout of a specific meal before entering a widget.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Dummy_data shows some pre written dummy data copied to kickstart the process of building the app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
